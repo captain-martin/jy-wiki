@@ -1,3 +1,2 @@
 # JavaScript
 
-[[August 9, 2021]]
